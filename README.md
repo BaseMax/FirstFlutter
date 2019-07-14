@@ -11,6 +11,15 @@ List of episode :
 
 -----------
 
+### Virtual Device
+
+![Flutter Android Virtual Device](screenshot1.png)
+
+![Flutter Android Virtual Device](screenshot2.png)
+
+![Flutter Android Virtual Device](screenshot3.png)
+
+
 ### Authors
 
 - [Max Base](https://github.com/BaseMax/)
