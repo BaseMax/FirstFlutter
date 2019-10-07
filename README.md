@@ -23,6 +23,7 @@ List of episode :
 ### Authors
 
 - [Max Base](https://github.com/BaseMax/)
+- [Ritik Harchani](https://github.com/harchani-ritik) (soon)
 
 Yours name will be here if you contribute or send pull...
 
